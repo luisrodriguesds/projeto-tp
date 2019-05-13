@@ -5,6 +5,7 @@ import br.ufc.banco.conta.ContaPoupanca;
 import br.ufc.banco.conta.ContaEspecial;
 import br.ufc.banco.conta.ContaAbstrata;
 import br.ufc.banco.interfaces.IBanco;
+import br.ufc.banco.interfaces.IRepositorioConta;
 
 public class BancoArray implements IBanco{
 
